@@ -15,10 +15,10 @@
     }
   ],
   "license": "MIT",
-  "homepage": "https://github.com/antfu-collective/bumpp",
+  "homepage": "https://github.com/made-in-common/bumpp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu-collective/bumpp.git"
+    "url": "https://github.com/made-in-common/bumpp.git"
   },
   "keywords": [
     "version",
